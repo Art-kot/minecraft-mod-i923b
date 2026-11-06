@@ -1,0 +1,6 @@
+JSON parsed: 20
+PNG: 6; all 16x16
+Model texture references: resolved
+Ore vanilla loot: empty (no duplicate reward)
+Ingot recipe: 9 shards -> 1 ingot
+These checks do NOT validate Minecraft gameplay.

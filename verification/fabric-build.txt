@@ -1,0 +1,7 @@
+Fabric Loom: 1.8.13
+JDK: 21.0.13
+Gradle: 8.10.2
+Result: BUILD FAILED
+Cause: CurrentPlatform.isUnixDomainSocketsSupported
+java.net.SocketException: Operation not permitted
+Compilation and game runtime are not verified.

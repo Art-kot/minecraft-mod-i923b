@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "endsteel",
+  "version": "${version}",
+  "name": "Endsteel",
+  "description": "Учебный проект команды MortaliRavioli (Mo’ra)",
+  "authors": [
+    "Корсун Е.А.",
+    "Гордеев М.С."
+  ],
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ru.college.i923b.endsteel.Endsteel"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
